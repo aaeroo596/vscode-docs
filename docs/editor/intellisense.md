@@ -98,7 +98,8 @@ By default, VS Code shows snippets and completion proposals in one widget. You c
 
 ### Key Bindings
 
-The key binding shown below is the default key binding. You can change this key binding in your `keybindings.json` file as described in [Key Bindings](/docs/customization/keybindings.md).
+The key binding shown below is the default key binding. You can change this key binding in your `keybindings.json` file as described in [🔑 Bindings](/docs/customization/
+keybindings.md).
 
 > **Note:** There are many more key bindings relating to IntelliSense. Simply open the **Default Keyboard Shortcuts** (**File** > **Preferences** > **Keyboard Shortcuts**) and search for "suggest".
 
@@ -132,8 +133,7 @@ IntelliSense is just one of VS Code's powerful features. Read on to learn more:
 
 **Q: Why am I not getting any suggestions?**
 
-![image of IntelliSense not working](images/intellisense/intellisense_error.png)
-
+![image of IntelliSense not working](images/intellisense/intellisense_error.png)As
 **A:** This can be caused by a variety of reasons. First, try restarting VS Code. If the problem persists, consult the language extension's documentation. For JavaScript specific troubleshooting, please see the [JavaScript language topic](/docs/languages/javascript.md#intellisense).
 
 **Q: Why am I not seeing method and variable suggestions?**
